@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @RomanSamborskyi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Swift
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me r.samborskyi@gmail.com
 
 <!---
