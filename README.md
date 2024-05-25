@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @RomanSamborskyi
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Swift
-- 📫 How to reach me r.samborskyi@gmail.com
+### Skils:
+ * Swift
+ * SwiftUI
+ * UIKit
+ * CoreData
+ * WidgetKit
+ * Structured concurrency
+ * REST API
 
-<!---
-RomanSamborskyi/RomanSamborskyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### [Portfolio](https://github.com/RomanSamborskyi/Portfolio)
