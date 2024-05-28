@@ -4,7 +4,7 @@
  * UIKit
  * CoreData
  * WidgetKit
- * Structured concurrency
+ * async/await
  * MVVM
  * REST API
 
