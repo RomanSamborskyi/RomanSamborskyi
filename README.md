@@ -3,6 +3,7 @@
  * SwiftUI
  * UIKit
  * CoreData
+ * SwiftData
  * WidgetKit
  * async/await
  * MVVM
