@@ -6,8 +6,7 @@
  * SwiftData
  * WidgetKit
  * async/await
- * MVVM
- * VIPER
+ * MVVM, VIPER
  * REST API
 
 ### [Portfolio](https://github.com/RomanSamborskyi/Portfolio)
